@@ -1,11 +1,7 @@
 // console.log("hellooooo")
 
 //-------1
-// let a=7;
-// if(a%2==0){
-//     console.log("even");
-// }else{
-//     console.log("odd");
-// }
+import eodd from "./eo.js"
+console.log(eodd(7));
 
 //-------2

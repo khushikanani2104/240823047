@@ -32,3 +32,18 @@
 // import eight from "./eo.js";
 // console.log(eight(121));
 
+// //-------9
+// import nine from "./eo.js";
+// console.log(nine(11));
+
+// //-------10
+// import ten from "./eo.js";
+// console.log(ten(116677));
+
+// //-------11
+// import ele from "./eo.js";
+// console.log(ele(123));
+
+//-------12
+import twelve from "./eo.js";
+console.log(twelve(123));

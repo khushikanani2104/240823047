@@ -120,9 +120,9 @@
 // }
 // export default ele;
 
-//12
-function twelve(num)
-{
+// //12
+// function twelve(num)
+// {
     
-}
-export default twelve;
+// }
+// export default twelve;

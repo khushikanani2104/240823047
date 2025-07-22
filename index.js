@@ -44,6 +44,6 @@
 // import ele from "./eo.js";
 // console.log(ele(123));
 
-//-------12
-import twelve from "./eo.js";
-console.log(twelve(123));
+// //-------12
+// import twelve from "./eo.js";
+// console.log(twelve(123));
